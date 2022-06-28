@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #289688;
+        
+}
+
+h1{
+    color: #fcea3e;
+    text-align: center;
+
+}
+
+.marco{
+    border: solid white;
+    border-width: 10px;
+    margin: 5px;
+    
+}
+

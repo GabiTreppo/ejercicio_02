@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #407cc5;
+    line-height: 1.2; /* no estoy seguro */
+    
+
+}
+
+/* p{
+    font-weight: bold;
+} */
+
+.logodisney{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+h1, h2 {
+    color: #bb5397;
+    letter-spacing: 10px
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 20px
+}
+
+.popcentury{
+    width: 400px;
+    float: right;
+    margin-left: 15px;
+   
+}
+
+.caribbeanbeach{
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+
+}
+
+.animalkingdom{
+    width: 400px;
+    float: right;
+    margin-left: 15px;
+}
+
+.mickeyminnie{
+    width: 100%;
+    
+}
